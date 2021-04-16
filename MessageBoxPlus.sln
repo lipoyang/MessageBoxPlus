@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxPlus", "MessageBoxPlus\MessageBoxPlus.csproj", "{AA3DB15C-728E-401D-9661-7AD7E3DE5A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{DA00FE14-F01E-4BCC-AB6A-DC85E3806BDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3DB15C-728E-401D-9661-7AD7E3DE5A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3DB15C-728E-401D-9661-7AD7E3DE5A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3DB15C-728E-401D-9661-7AD7E3DE5A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3DB15C-728E-401D-9661-7AD7E3DE5A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA00FE14-F01E-4BCC-AB6A-DC85E3806BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA00FE14-F01E-4BCC-AB6A-DC85E3806BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA00FE14-F01E-4BCC-AB6A-DC85E3806BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA00FE14-F01E-4BCC-AB6A-DC85E3806BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991FC7B7-ADE4-42B7-AA50-DA9C8EABE1E2}
+	EndGlobalSection
+EndGlobal
